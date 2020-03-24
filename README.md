@@ -12,3 +12,5 @@ https://clstanton.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Courtney Stanton
+
+### (c)2019 Run Buddy, Inc
